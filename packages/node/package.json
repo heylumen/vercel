@@ -36,9 +36,9 @@
     "typescript": "4.3.4"
   },
   "devDependencies": {
-    "@babel/core": "7.5.0",
+    "@babel/core": "7.29.6",
     "@babel/plugin-transform-modules-commonjs": "7.5.0",
-    "@tootallnate/once": "1.1.2",
+    "@tootallnate/once": "2.0.1",
     "@types/aws-lambda": "8.10.19",
     "@types/content-type": "1.1.3",
     "@types/cookie": "0.3.3",
@@ -49,10 +49,10 @@
     "@vercel/ncc": "0.24.0",
     "@vercel/nft": "0.19.1",
     "content-type": "1.0.4",
-    "cookie": "0.4.0",
+    "cookie": "2.0.1",
     "etag": "1.8.1",
     "mkdirp-promise": "5.0.1",
-    "node-fetch": "2.6.1",
+    "node-fetch": "3.3.2",
     "source-map-support": "0.5.12",
     "test-listen": "1.1.0"
   }
